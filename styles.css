@@ -37,3 +37,10 @@ nav, ul {
     display: flex;
 }
 
+.fondo{
+    background: linear-gradient(rgb(22,154,200), rgb(33, 41, 116));
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
